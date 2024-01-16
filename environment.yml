@@ -1,0 +1,6 @@
+name: case-conference
+dependencies:
+  - python=3.11
+  - pip
+  - pip:
+    - poetry==1.5.1
